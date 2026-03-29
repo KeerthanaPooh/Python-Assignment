@@ -36,14 +36,6 @@ Python is a high-level, general-purpose programming language. It is called an in
 ## 5. What is PEP 8?
 PEP 8 is the style guide for writing Python code. It ensures code readability and consistency.
 
-## 📘 Assignment 2
-Programs included:
-- Area of rectangle
-- Perimeter of square
-- Area of triangle
-- Circumference of circle
-- Simple interest calculation
-
 ## 6. Who developed Python and when?
 Python was developed by Guido van Rossum and released in 1991.
 
@@ -52,3 +44,11 @@ In Python, variable types are decided at runtime. You don’t need to declare th
 
 ## 8. Compiler vs Interpreter
 A compiler converts the whole program into machine code before execution. An interpreter executes code line by line. Python uses an interpreter.
+
+## 📘 Assignment 2
+Programs included:
+- Area of rectangle
+- Perimeter of square
+- Area of triangle
+- Circumference of circle
+- Simple interest calculation
