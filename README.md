@@ -54,3 +54,9 @@ Programs included:
 - Area of triangle
 - Circumference of circle
 - Simple interest calculation
+
+- ## ▶️ Sample Output
+
+Enter length of rectangle: 5  
+Enter width of rectangle: 4  
+Area of Rectangle: 20
