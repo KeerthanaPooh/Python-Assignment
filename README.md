@@ -3,13 +3,7 @@
 Welcome to my Python Assignment repository!  
 This repository contains basic Python concepts and programs.
 
-## 📚 Topics Covered
-- Python basics
-- Area & perimeter programs
-- Simple interest calculation
-
-
-- # Python Assignment
+# Python Assignment
 
 ## 1. What is Python and why is it called an interpreted language?
 Python is a high-level, general-purpose programming language. It is called an interpreted language because the code is executed line by line by an interpreter instead of being compiled into machine code beforehand.
@@ -72,3 +66,13 @@ Programs based on for loop concepts including:
 - Monthly savings growth
 - Electricity bill calculation
 - Student marks percentage
+
+## 📘 Assignment 5
+Pattern printing programs implemented using nested loops (for loop inside for loop).
+
+Includes:
+- Star patterns
+- Number patterns
+- Hollow patterns
+- Pyramid patterns
+- Pascal’s triangle
