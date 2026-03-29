@@ -1,4 +1,2 @@
-# Assignment 3
-
-This assignment covers conditional statements in Python.
-
+## 📘 Assignment 3
+Programs based on conditional statements (if-else).
