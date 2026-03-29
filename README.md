@@ -1,4 +1,13 @@
-# Python Assignment
+# 🐍 Python Assignment
+
+This repository contains answers to basic Python questions along with a Python implementation file.
+
+## 📂 Contents
+- README.md → Theory answers
+- answers.py → Python code implementation
+
+
+- # Python Assignment
 
 ## 1. What is Python and why is it called an interpreted language?
 Python is a high-level, general-purpose programming language. It is called an interpreted language because the code is executed line by line by an interpreter instead of being compiled into machine code beforehand.
