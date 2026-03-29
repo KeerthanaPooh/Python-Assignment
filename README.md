@@ -1,10 +1,12 @@
 # 🐍 Python Assignment
 
-This repository contains answers to basic Python questions along with a Python implementation file.
+Welcome to my Python Assignment repository!  
+This repository contains basic Python concepts and programs.
 
-## 📂 Contents
-- README.md → Theory answers
-- answers.py → Python code implementation
+## 📚 Topics Covered
+- Python basics
+- Area & perimeter programs
+- Simple interest calculation
 
 
 - # Python Assignment
