@@ -60,3 +60,6 @@ Programs included:
 Enter length of rectangle: 5  
 Enter width of rectangle: 4  
 Area of Rectangle: 20
+
+## 📘 Assignment 3
+Programs based on conditional statements (if-else).
