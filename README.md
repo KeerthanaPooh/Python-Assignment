@@ -36,6 +36,14 @@ Python is a high-level, general-purpose programming language. It is called an in
 ## 5. What is PEP 8?
 PEP 8 is the style guide for writing Python code. It ensures code readability and consistency.
 
+## 📘 Assignment 2
+Programs included:
+- Area of rectangle
+- Perimeter of square
+- Area of triangle
+- Circumference of circle
+- Simple interest calculation
+
 ## 6. Who developed Python and when?
 Python was developed by Guido van Rossum and released in 1991.
 
