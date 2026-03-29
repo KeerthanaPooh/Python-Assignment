@@ -63,3 +63,12 @@ Area of Rectangle: 20
 
 ## 📘 Assignment 3
 Programs based on conditional statements (if-else).
+
+## 📘 Assignment 4
+Programs based on for loop concepts including:
+- Salary increment calculation
+- Attendance percentage tracking
+- Discount price calculation
+- Monthly savings growth
+- Electricity bill calculation
+- Student marks percentage
